@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software itself."
+type: software
+title: "Syrian Herbal Medicine KAP Survey: Statistical Analysis Pipeline"
+authors:
+  - family-names: "Khatib"
+    given-names: "Chadi"
+  - family-names: "Mathbout"
+    given-names: "Nour"
+  - family-names: "Abo Kaf"
+    given-names: "Tasneim"
+  - family-names: "Masri"
+    given-names: "Tasnim"
+  - family-names: "Zayat"
+    given-names: "Yaman"
+repository-code: "https://github.com/chadikhatib/syrian-herbal-medicine-kap-survey-2026"
+version: 1.0.0
+date-released: "2026-05-23"
+license: MIT
