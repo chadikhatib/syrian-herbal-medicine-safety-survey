@@ -1,19 +1,49 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the article and the software itself."
+
+message: "If you use this dataset, code, or materials, please cite both the associated article and this repository."
+
 type: software
-title: "Syrian Herbal Medicine KAP Survey: Statistical Analysis Pipeline"
+
+title: "Herbal Medicine Use and Safety Awareness among Syrian Adults: Statistical Analysis Pipeline"
+
 authors:
   - family-names: "Khatib"
     given-names: "Chadi"
-  - family-names: "Mathbout"
-    given-names: "Nour"
+
   - family-names: "Abo Kaf"
     given-names: "Tasneim"
+
   - family-names: "Masri"
-    given-names: "Tasnim"
+    given-names: "Tasnim Haj F."
+
+  - family-names: "Mathbout"
+    given-names: "Nour"
+
   - family-names: "Zayat"
     given-names: "Yaman"
-repository-code: "https://github.com/chadikhatib/syrian-herbal-medicine-kap-survey-2026"
-version: 1.0.0
-date-released: "2026-05-23"
-license: MIT
+
+repository-code: "https://github.com/chadikhatib/syrian-herbal-medicine-survey-2026"
+
+version: "1.0.0"
+
+date-released: "2026-06-20"
+
+license: "MIT"
+
+keywords:
+  - herbal medicine
+  - medicinal plants
+  - herb-drug interactions
+  - health literacy
+  - digital health
+  - Syria
+  - Arabic health information
+  - cross-sectional survey
+
+abstract: >
+  Statistical analysis pipeline, anonymized dataset,
+  questionnaire, codebook, and supplementary materials
+  associated with the study:
+  "Exploratory Survey of Herbal Medicine Use and Safety Awareness
+  among Digitally Connected Syrian Adults:
+  Implications for Arabic Digital Health Resources".
