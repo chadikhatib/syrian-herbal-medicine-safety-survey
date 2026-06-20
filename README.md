@@ -137,6 +137,19 @@ Because the study employed an exploratory design and a non-probability sample, i
 │
 └── LICENSE
 ```
+## Supplementary Materials
+
+The repository includes the following supplementary files:
+
+| File                 | Description                     |
+| -------------------- | ------------------------------- |
+| Supplementary File 1 | Questionnaire (Arabic)          |
+| Supplementary File 2 | Codebook & Data Dictionary      |
+| Supplementary File 3 | Statistical Analysis Plan (SAP) |
+| Supplementary File 4 | Anonymized Dataset (CSV)        |
+| Supplementary File 5 | Ethics Approval (SHAMNA-26-04)  |
+
+These materials are provided to support transparency, reproducibility, and secondary research use.
 
 ---
 
