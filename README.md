@@ -315,7 +315,6 @@ https://doi.org/10.5281/zenodo.20777941
 - STROBE reporting materials
 - Medicinal Plant Safety Database
 - Ethics documentation
-
 ---
 
 ## Disclaimer
