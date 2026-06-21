@@ -304,6 +304,19 @@ Zenodo.
 https://doi.org/10.5281/zenodo.20777941
 
 ---
+## Version History
+
+### v1.0 (Submission Version)
+- Initial public release
+- Dataset (N = 287)
+- Questionnaire (Arabic and English)
+- Statistical Analysis Plan
+- Reproducibility documentation
+- STROBE reporting materials
+- Medicinal Plant Safety Database
+- Ethics documentation
+
+---
 
 ## Disclaimer
 
