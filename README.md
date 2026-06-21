@@ -14,6 +14,27 @@ The study investigated patterns of herbal medicine use, safety awareness, percep
 Following eligibility screening and data cleaning, the final analytical dataset consisted of **287 participants aged 18 years and older**.
 
 ---
+## Article Status
+
+This repository accompanies the manuscript:
+
+**Exploratory Survey of Herbal Medicine Use and Safety Awareness among Digitally Connected Syrian Adults: Implications for Arabic Digital Health Resources**
+
+Submitted to **PLOS ONE (2026)**.
+
+This repository serves as the official reproducibility archive and contains the anonymized dataset, questionnaire, codebook, statistical analysis plan, supplementary materials, and analysis scripts associated with the manuscript.
+
+Current repository version: **v1.0 (submission version)**.
+---
+
+## Repository DOI
+
+Zenodo Archive:
+
+DOI: 10.5281/zenodo.20777941
+
+The DOI provides permanent access to all study materials and archived repository versions.
+---
 
 ## Study Objectives
 
@@ -60,7 +81,21 @@ The data processing pipeline includes:
 * Reviewing incomplete and invalid records
 * Creating the final analysis dataset
 * Producing reproducible descriptive and inferential analyses
+---
+## Open Science Statement
 
+In accordance with the PLOS Data Policy, all materials necessary to reproduce the findings reported in the manuscript are publicly available in this repository.
+
+Available materials include:
+
+- Anonymized dataset
+- Arabic survey questionnaire
+- English questionnaire translation
+- Codebook and data dictionary
+- Statistical Analysis Plan (SAP)
+- Reproducibility Guide
+- Statistical analysis scripts
+- Ethics approval documentation
 ---
 
 ## Statistical Analyses
@@ -139,15 +174,19 @@ Because the study employed an exploratory design and a non-probability sample, i
 ```
 ## Supplementary Materials
 
-The repository includes the following supplementary files:
-
-| File                 | Description                     |
-| -------------------- | ------------------------------- |
-| Supplementary File 1 | Questionnaire (Arabic)          |
-| Supplementary File 2 | Codebook & Data Dictionary      |
-| Supplementary File 3 | Statistical Analysis Plan (SAP) |
-| Supplementary File 4 | Anonymized Dataset (CSV)        |
-| Supplementary File 5 | Ethics Approval (SHAMNA-26-04)  |
+| Supplement | File |
+|------------|------|
+| S1 | Arabic Questionnaire |
+| S2 | Response Bias Assessment |
+| S3 | Psychometric Assessment |
+| S4 | Qualitative Thematic Analysis |
+| S5 | Medicinal Plant Safety Database |
+| S6 | STROBE Checklist |
+| S7 | Statistical Analysis Plan (SAP) |
+| S8 | Data Dictionary & Codebook |
+| S9 | Reproducibility Guide |
+| S10 | Ethics Approval Documentation |
+| S11 | Anonymized Dataset |
 
 These materials are provided to support transparency, reproducibility, and secondary research use.
 
@@ -202,6 +241,21 @@ The repository is intended to facilitate transparent and reproducible research b
 Researchers may reproduce all descriptive and exploratory analyses reported in the manuscript using the supplied code and data files.
 
 ---
+## Repository Contents
+
+This repository contains:
+
+- Primary research data
+- Metadata documentation
+- Variable coding framework
+- Statistical analysis workflow
+- Supplementary methodological documents
+- Reproducibility materials
+- Ethics documentation
+
+No personally identifiable participant information is included.
+
+---
 
 ## Citation
 
@@ -212,7 +266,7 @@ If you use the analysis workflow, code structure, or accompanying materials, ple
   title={Exploratory Survey of Herbal Medicine Use and Safety Awareness among Digitally Connected Syrian Adults: Implications for Arabic Digital Health Resources},
   author={Khatib, Chadi and Abo Kaf, Tasneim and Masri, Tasnim Haj F. and Mathbout, Nour and Zayat, Yaman},
   year={2026},
-  note={Manuscript under review}
+  note={Submitted to PLOS ONE, 2026}
 }
 ```
 
@@ -227,6 +281,15 @@ Manara University
 Syria
 
 Email: [chadi.khatib@manara.edu.sy](mailto:chadi.khatib@manara.edu.sy)
+
+---
+## Data Sharing and Reuse
+
+The anonymized dataset and accompanying materials are made available for academic, educational, and non-commercial research purposes.
+
+Users are encouraged to cite the original study when reusing the data or materials.
+
+No attempt should be made to identify individual participants.
 
 ---
 
