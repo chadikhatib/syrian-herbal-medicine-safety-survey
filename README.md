@@ -141,35 +141,29 @@ Because the study employed an exploratory design and a non-probability sample, i
 
 ```text
 ├── data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
-│   ├── data_dictionary.csv
-│   └── codebook.csv
+│   ├── anonymized_dataset_N287.csv
+│   ├── data_dictionary.xlsx
+│   └── codebook.xlsx
+│
+├── questionnaire/
+│   ├── Arabic_Questionnaire.pdf
+│   └── English_Questionnaire.pdf
+│
+├── supplementary/
+│   ├── S2_Response_Bias_Assessment.pdf
+│   ├── S3_Psychometric_Assessment.pdf
+│   ├── S4_Qualitative_Thematic_Analysis.pdf
+│   ├── S5_Medicinal_Plant_Safety_Database.xlsx
+│   ├── S6_STROBE_Checklist.pdf
+│   ├── S7_Statistical_Analysis_Plan.pdf
+│   ├── S8_Data_Dictionary_Codebook.pdf
+│   ├── S9_Reproducibility_Guide.pdf
+│   └── S10_Ethics_Approval.pdf
 │
 ├── scripts/
-│   ├── data_cleaning.py
-│   ├── descriptive_analysis.py
-│   ├── chi_square_analysis.py
-│   ├── tables_generation.py
-│   └── statistical_pipeline.py
-│
 ├── outputs/
-│   ├── Table1_DemographicCharacteristics.csv
-│   ├── Table2_MedicinalPlantUsePatterns.csv
-│   ├── Table3_HerbalMedicineSafetyConcepts.csv
-│   ├── Table4_HerbDrugInteractionAwareness.csv
-│   ├── Table5_ConsultationPractices.csv
-│   ├── Table6_WeightLossHerbalUse.csv
-│   ├── Table7_PotentialHerbalToxicity.csv
-│   ├── Table8_DependenceAddictionAwareness.csv
-│   ├── Table9_ArabicDigitalResourceInterest.csv
-│   └── Table10_HealthcareBackground_HerbDrugInteraction.csv
-│
-├── SAP/
-│   └── Statistical_Analysis_Plan.pdf
-│
 ├── README.md
-│
+├── requirements.txt
 └── LICENSE
 ```
 ## Supplementary Materials
@@ -185,8 +179,8 @@ Because the study employed an exploratory design and a non-probability sample, i
 | S7 | Statistical Analysis Plan (SAP) |
 | S8 | Data Dictionary & Codebook |
 | S9 | Reproducibility Guide |
-| S10 | Ethics Approval Documentation |
-| S11 | Anonymized Dataset |
+| S10 | Ethics Approval Documentation (SHAMNA-26-04) |
+| S11 | Anonymized Dataset (N = 287) |
 
 These materials are provided to support transparency, reproducibility, and secondary research use.
 
@@ -271,6 +265,13 @@ If you use the analysis workflow, code structure, or accompanying materials, ple
 ```
 
 ---
+## Versioning
+
+Version 1.0 corresponds to the manuscript submitted to PLOS ONE in June 2026.
+
+Future repository updates (e.g., peer-review revisions, accepted manuscript version, or corrected datasets) will be archived as separate Zenodo versions while preserving access to previous releases.
+
+---
 
 ## Correspondence
 
@@ -290,6 +291,17 @@ The anonymized dataset and accompanying materials are made available for academi
 Users are encouraged to cite the original study when reusing the data or materials.
 
 No attempt should be made to identify individual participants.
+
+---
+## Dataset Citation
+
+Khatib C, Mathbout N, Abo Kaf T, Masri T, Zayat Y. (2026).
+
+Exploratory Survey of Herbal Medicine Use and Safety Awareness among Digitally Connected Syrian Adults: Reproducibility Archive.
+
+Zenodo.
+
+https://doi.org/10.5281/zenodo.20777941
 
 ---
 
