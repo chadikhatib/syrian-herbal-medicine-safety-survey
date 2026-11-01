@@ -1,49 +1,28 @@
-cff-version: 1.2.0
-
-message: "If you use this dataset, code, or materials, please cite both the associated article and this repository."
-
+cff-version: 1.2.0	
+message: "If you use this dataset, code, or materials, please cite both the associated PLOS ONE manuscript and this Zenodo repository."
 type: software
-
-title: "Herbal Medicine Use and Safety Awareness among Syrian Adults: Statistical Analysis Pipeline"
-
+title: "Syrian Herbal Medicine Safety & Digital Health Survey: Reproducibility Archive"
 authors:
   - family-names: "Khatib"
     given-names: "Chadi"
-
   - family-names: "Abo Kaf"
     given-names: "Tasneim"
-
   - family-names: "Masri"
     given-names: "Tasnim Haj F."
-
   - family-names: "Mathbout"
     given-names: "Nour"
-
   - family-names: "Zayat"
     given-names: "Yaman"
-
-repository-code: "https://github.com/chadikhatib/syrian-herbal-medicine-survey-2026"
-
-version: "1.0.0"
-
-date-released: "2026-06-20"
-
+repository-code: "https://github.com/chadikhatib/syrian-herbal-medicine-kap-survey-2026"
+doi: "10.5281/zenodo.20777941"
+version: "v2.1.0"
+date-released: "2026-11-01"
 license: "MIT"
-
 keywords:
   - herbal medicine
   - medicinal plants
   - herb-drug interactions
-  - health literacy
+  - herbal safety
   - digital health
   - Syria
-  - Arabic health information
   - cross-sectional survey
-
-abstract: >
-  Statistical analysis pipeline, anonymized dataset,
-  questionnaire, codebook, and supplementary materials
-  associated with the study:
-  "Exploratory Survey of Herbal Medicine Use and Safety Awareness
-  among Digitally Connected Syrian Adults:
-  Implications for Arabic Digital Health Resources".
