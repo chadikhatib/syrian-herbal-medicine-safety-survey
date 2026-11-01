@@ -1,36 +1,18 @@
-# OS files
+# OS & Environment
 .DS_Store
 Thumbs.db
-
-# Temporary exports
 *.tmp
 *.bak
+__pycache__/
 
-# Statistical outputs
-output/
-results/
-figures/
+# Local cached data & private notes
+data/raw_private/
+data/identifiable/
+notes/
+drafts/
 
-# SPSS temporary files
+# SPSS & Excel temporary locks
 *.spv
 *.spo
 *.sps~
-
-# Excel temporary files
 ~$*.xlsx
-
-# Local data copies (keep public release dataset only)
-data/raw_private/
-data/identifiable/
-
-# Jupyter generated files
-.ipynb_checkpoints/
-
-# RStudio
-.Rhistory
-.RData
-.Rproj.user/
-
-# Personal notes
-notes/
-drafts/
