@@ -8,7 +8,7 @@ This repository contains the complete reproducible analytical pipeline, anonymiz
 - `Anonymized_Dataset_N_287.csv`: Primary analytical dataset (N = 287)
 - `reproduce_analysis.py`: Executable Python 3.11 script reproducing all descriptive & inferential analyses
 - `Codebook_and_Data_Dictionary_v2.1.docx`: Full variable mapping for Q1–Q30 and derived variables
-- `Supplementary_Information_Appendices.docx`: S1–S4 and S6–S9 Appendices
+- `Supplementary_Information_Appendices.docx`: S1–S7 Appendices
 - `Release_Notes_v2.1.docx`: Chronological archive changelog
 - `requirements.txt`: Environment package dependencies
 
